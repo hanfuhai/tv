@@ -1,4 +1,4 @@
-央视,#genre#
+央视,#流派#
 CCTV-1综合,http://120.196.232.20:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
@@ -30,10 +30,10 @@ CCTV4中文国际美洲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL000003
 CCTV4中文国际欧洲,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
 CCTV-5 体育,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
 CCTV-5 体育,http://222.71.90.218:8888/newlive/live/hls/6/live.m3u8
-CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5 体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5 体育,http://222.240.82.92:9901/tsfile/live/0005_1.m3u8
-CCTV-5 体育,http://cfss.cc/ds/ysp/qp.php?id=cctv5&Cf.m3u8
+CCTV-5体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5体育，http://222.240.82.92:9901/tsfile/live/0005_1.m3u8
+CCTV-5体育,http://cfss.cc/ds/ysp/qp.php?id=cctv5&Cf.m3u8
 CCTV-5 体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV-5 体育,http://120.196.232.23:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8?icpid=651&from=38&hms_devid=2243&online=1700964173&vqe=3
 CCTV-5 体育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
@@ -5640,7 +5640,6 @@ SiTV游戏风云,http://zteres.sn.chinamobile.com:6060/000000001000/500000001100
 江苏财富天下,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031208/1.m3u8?channel-id=bestzb&Contentid=5000000011000031208&livemode=1&stbId=3
 
 陕西IPV6,#genre#
-CCTV-1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002800/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002745/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001018/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -5956,6 +5955,7 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 韩城综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002884/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 富县综合频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002795/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 佛坪综合频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001929/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+凤县,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002800/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 富平TV-1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002561/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 扶风,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002563/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 淳化电视台,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002880/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
